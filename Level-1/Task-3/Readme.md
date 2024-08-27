@@ -8,7 +8,7 @@ This project is a temperature converter created as Task-03 from Level-1 for my i
 
 - **HTML**: Used to structure the content of the converter.
 - **CSS**: Used for styling the interface of the converter.
-- **Bootstrap**: Used for responsive design and layout.
+- **JavaScript**: Used to handle the temperature conversion logic and interactivity.
 
 ## Features
 
