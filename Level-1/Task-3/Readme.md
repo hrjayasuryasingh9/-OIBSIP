@@ -22,7 +22,7 @@ This project is a temperature converter created as Task-03 from Level-1 for my i
 - Special thanks to the Oasis Infobyte development team for their support and feedback.
 - Inspired by clean and functional design principles for web tools.
 
-## View My Temperature Converter Here: [Demo](https://hrjayasuryasingh9.github.io/OASIS-INFOBYTE/Level-1/Task-3/)
+## View My Temperature Converter Here: [Demo](https://hrjayasuryasingh9.github.io/OIBSIP/Level-1/Task-3/)
 
 **Author**: Jayasuryasingh
 
